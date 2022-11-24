@@ -1,0 +1,27 @@
+Documentation
+
+
+
+Project topic: My ramblings about this course
+    - What I've learned
+    - What I am going to learn
+    - I have no experience
+    - What I think about Laurea
+    - I puked after drinking too much
+    - I enjoy myself a lot while coding
+
+
+
+Index:
+
+This is my blog, that I made for an HTML course in university. It was made in the span of about a week. In this blog I will tell about my skills and ambitions as well as about whatever I feel like.
+
+About me
+I am Mikko Auvinen. I am currently studying in Laurea University of applied sciences. I am 20 years old and I live very close to my campus.
+I started my studies immeadtly after having served in the army. As such, I do not have any meaningful experience in the industry and my skills are limited to what I've learned so far.
+ 
+
+
+
+
+
