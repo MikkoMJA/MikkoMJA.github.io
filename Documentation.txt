@@ -1,16 +1,8 @@
+Site address: https://mikkomja.github.io/
+
+
+
 Documentation
-
-
-
-Project topic: My ramblings about this course
-    - What I've learned
-    - What I am going to learn
-    - I have no experience
-    - What I think about Laurea
-    - I puked after drinking too much
-    - I enjoy myself a lot while coding
-
-
 
 Index:
 
@@ -20,6 +12,15 @@ About me
 I am Mikko Auvinen. I am currently studying in Laurea University of applied sciences. I am 20 years old and I live very close to my campus.
 I started my studies immeadtly after having served in the army. As such, I do not have any meaningful experience in the industry and my skills are limited to what I've learned so far.
  
+
+
+Head:
+First is the link to the css-file. 
+Next is the title. 
+Next are two meta elements that do something and scale the content to the screen size.
+Next are two links that lead to an external stylesheet as well as to an external javascript file. These two let me use bootstrap 5.
+
+Body:
 
 
 
